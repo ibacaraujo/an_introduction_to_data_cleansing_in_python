@@ -7,5 +7,3 @@
   pd.Timedelta, datetime between dates.
   
   Indexing with datetime using DatetimeIndex.
-  
-  DateOffsets to generate dates in regular intervals.
